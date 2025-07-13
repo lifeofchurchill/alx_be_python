@@ -1,6 +1,6 @@
 #addition operation
-number1 = int(10)
-number2 = int(5)
+number1 = 10
+number2 = 5
 
 addition = number1 + number2
 print(f"addition of {number1} and {number2} is {addition}")
