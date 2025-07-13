@@ -2,13 +2,13 @@
 number1 = int(10)
 number2 = int(5)
 
-additionsum = number1 + number2
-print(f"addition of {number1} and {number2} is {additionsum}")
+addition = number1 + number2
+print(f"addition of {number1} and {number2} is {addition}")
 
 #subtraction operation
-subtractionsum = number1 - number2
-print(f"subtraction of {number1} and {number2} is {subtractionsum}")
+subtraction = number1 - number2
+print(f"subtraction of {number1} and {number2} is {subtraction}")
 
 #multiplication operation 
-multiplysum = number1 * number2 
-print(f"multiplication of {number1} and {number2} is {multiplysum}")
+multiplication = number1 * number2 
+print(f"multiplication of {number1} and {number2} is {multiplication}")
